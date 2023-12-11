@@ -1,0 +1,14 @@
+C:\Users\Usuario\Desktop\Patron de diseño Observer\bin\Debug\net7.0\Patron de diseño Observer.exe
+C:\Users\Usuario\Desktop\Patron de diseño Observer\bin\Debug\net7.0\Patron de diseño Observer.deps.json
+C:\Users\Usuario\Desktop\Patron de diseño Observer\bin\Debug\net7.0\Patron de diseño Observer.runtimeconfig.json
+C:\Users\Usuario\Desktop\Patron de diseño Observer\bin\Debug\net7.0\Patron de diseño Observer.dll
+C:\Users\Usuario\Desktop\Patron de diseño Observer\bin\Debug\net7.0\Patron de diseño Observer.pdb
+C:\Users\Usuario\Desktop\Patron de diseño Observer\obj\Debug\net7.0\Patron de diseño Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Patron de diseño Observer\obj\Debug\net7.0\Patron de diseño Observer.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Patron de diseño Observer\obj\Debug\net7.0\Patron de diseño Observer.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Patron de diseño Observer\obj\Debug\net7.0\Patron de diseño Observer.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Patron de diseño Observer\obj\Debug\net7.0\Patron de diseño Observer.dll
+C:\Users\Usuario\Desktop\Patron de diseño Observer\obj\Debug\net7.0\refint\Patron de diseño Observer.dll
+C:\Users\Usuario\Desktop\Patron de diseño Observer\obj\Debug\net7.0\Patron de diseño Observer.pdb
+C:\Users\Usuario\Desktop\Patron de diseño Observer\obj\Debug\net7.0\Patron de diseño Observer.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Patron de diseño Observer\obj\Debug\net7.0\ref\Patron de diseño Observer.dll
